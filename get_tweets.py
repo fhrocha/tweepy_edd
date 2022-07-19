@@ -1,6 +1,3 @@
-__author__ = 'Guilherme Noronha'
-__contact__ = 'https://www.linkedin.com/in/noronha2001/'
-
 import json
 import os
 import time
